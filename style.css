@@ -9,10 +9,8 @@
 .banner
 {
 	/*background-color: #341F48;*/
-	background: -moz-linear-gradient(left, #341F48 50%, #2b193c 50%);
-	background: -webkit-linear-gradient(left, #341F48 50%, #2b193c 50%);
-	background: -o-linear-gradient(left, #341F48 50%, #2b193c 50%);
-	background: linear-gradient(left, #341F48 50%, #2b193c 50%);
+	background-image: url('/images/banner_image.jpg');
+
 }
 
 .banner-text 
